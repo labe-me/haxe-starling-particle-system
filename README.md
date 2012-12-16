@@ -1,8 +1,8 @@
 haxe-starling-particle-system
 =============================
 
-  haxelib install starling https://github.com/labe-me/haxe-starling haxelib
-  haxelib install starling-particle-system https://github.com/labe-me/haxe-starling-particle-system haxelib
+  haxelib git starling https://github.com/labe-me/haxe-starling haxelib
+  haxelib git starling-particle-system https://github.com/labe-me/haxe-starling-particle-system haxelib
 
 Or
 
