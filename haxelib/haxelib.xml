@@ -1,0 +1,7 @@
+<project name="starling-particle-system" url="https://github.com/labe-me/haxe-starling-particle-system" license="MIT">
+  <user name=""/>
+  <tag v="flash"/>
+  <description>Starling extension Particle System</description>
+  <version name="1.0.0">Init</version>
+  <depends name="starling"/>
+</project>
