@@ -1,0 +1,8 @@
+{
+    "name":"starling-particle-system",
+    "url":"https://github.com/labe-me/haxe-starling-particle-system",
+    "license":"MIT",
+    "tags":["flash"],
+    "description":"Starling extension Particle System",
+    "version":"1.0.0",
+}
