@@ -5,4 +5,6 @@
     "tags":["flash"],
     "description":"Starling extension Particle System",
     "version":"1.0.0",
+    "contributors":["Laurent Bedubourg"],
+    "releasenote":"See log"
 }
